@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog. This is a classic sentence used for testing typefaces and keyboards. It contains all letters of the English alphabet.
+
+Artificial intelligence (AI) is intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals. Leading AI research includes machine learning, deep learning, and natural language processing (NLP). AI applications include robotics, expert systems, and speech recognition.
